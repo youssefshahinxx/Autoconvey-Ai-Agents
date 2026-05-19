@@ -83,23 +83,23 @@
 
             <div class="flex flex-col gap-3">
                 <h4 class="text-xs font-bold uppercase tracking-widest text-[#a1a19f]">Navigation</h4>
-                <nav class="flex flex-col gap-2.5 text-sm font-medium text-[#787774]">
+                <div class="flex flex-col gap-2.5 text-sm font-medium text-[#787774]">
                     <a href="/#how-it-works" class="hover:text-[#37352f] transition-colors w-fit">How It Works</a>
                     <a href="/#agents" class="hover:text-[#37352f] transition-colors w-fit">Agents</a>
                     <a href="/#pricing" class="hover:text-[#37352f] transition-colors w-fit">Pricing</a>
                     <a href="/assessment" class="hover:text-[#37352f] transition-colors w-fit">Early Access</a>
                     <a href="/blog" class="hover:text-[#37352f] transition-colors w-fit">Blog</a>
-                </nav>
+                </div>
             </div>
 
             <div class="flex flex-col gap-3">
                 <h4 class="text-xs font-bold uppercase tracking-widest text-[#a1a19f]">Company</h4>
-                <nav class="flex flex-col gap-2.5 text-sm font-medium text-[#787774]">
+                <div class="flex flex-col gap-2.5 text-sm font-medium text-[#787774]">
                     <a href="/about" class="hover:text-[#37352f] transition-colors w-fit">About</a>
                     <a href="/contact" class="hover:text-[#37352f] transition-colors w-fit">Contact</a>
                     <a href="/privacy" class="hover:text-[#37352f] transition-colors w-fit">Privacy Policy</a>
                     <a href="/terms" class="hover:text-[#37352f] transition-colors w-fit">Terms of Service</a>
-                </nav>
+                </div>
             </div>
 
             <div class="flex flex-col gap-4">
