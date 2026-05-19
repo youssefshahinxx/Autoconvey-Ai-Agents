@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"allowJs": true,
+		"checkJs": false,
+		"forceConsistentCasingInFileNames": true,
+		"resolveJsonModule": true,
+		"skipLibCheck": true,
+		"sourceMap": true,
+		"ignoreDeprecations": "6.0",
+		"module": "esnext",
+		"moduleResolution": "node"
+	},
+	"include": ["src/**/*"]
+}
