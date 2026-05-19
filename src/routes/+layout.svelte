@@ -1,6 +1,5 @@
 <script>
 	import "../app.css";
-    export const prerender = true;
 	// Svelte state for the mobile menu toggle
 	let isNavOpen = false;
 	function toggleNav() {
