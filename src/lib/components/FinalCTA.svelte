@@ -6,10 +6,10 @@
                 demand.
             </p>
             <button class="btn-black mb-4 px-10 py-4 rounded-md font-bold text-lg hover:opacity-90">
-                <a href="business-automation-assessment.html">Book a Demo</a>
+                <a href="/assessment">Book a Demo</a>
             </button>
             <button
                 class="text-lg px-10 py-4 font-bold border border-[#e9e9e7] rounded-md hover:bg-[#f7f7f5] book-demo">
-                <a href="business-automation-assessment.html">Test Call</a>
+                <a href="#">Test Call</a>
             </button>
         </section>
