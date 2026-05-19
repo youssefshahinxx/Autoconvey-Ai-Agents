@@ -1,5 +1,5 @@
 <script>
-	import "../app.css";
+	import "..routes/app.css";
 	// Svelte state for the mobile menu toggle
 	let isNavOpen = false;
 	function toggleNav() {
