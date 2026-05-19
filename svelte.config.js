@@ -8,10 +8,6 @@ const config = {
         // adapter-auto only works if environment variables are perfectly pre-configured.
         // adapter-netlify explicitly configures your build output for Netlify.
         adapter: adapter(),
-        prerender: {
-            // This prevents missing links or favicons from failing your Netlify deployments
-            handleHttpError: 'warn' 
-        }
     }
 };
 
