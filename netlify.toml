@@ -1,8 +1,5 @@
 [build]
 
 command = "npm run build"
-publish = "build"
-
-[dev]
-
-command = "svelte-kit dev"
+publish = "build/"
+funcitons = "funcitons/"
