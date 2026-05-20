@@ -8,7 +8,6 @@ const config = {
         // adapter-auto only works if environment variables are perfectly pre-configured.
         // adapter-netlify explicitly configures your build output for Netlify.
         adapter: adapter(),
-        target: '#svelte',  
     }
 };
 
