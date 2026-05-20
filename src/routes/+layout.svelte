@@ -1,6 +1,5 @@
 <script>
-	import "../app.css";
-	// Svelte state for the mobile menu toggle
+    import "../app.css";	// Svelte state for the mobile menu toggle
 	let isNavOpen = false;
 	function toggleNav() {
 		isNavOpen = !isNavOpen;
