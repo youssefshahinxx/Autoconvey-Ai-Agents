@@ -9,9 +9,9 @@
     <p class="text-xl text-[#787774] mb-8 max-w-2xl mx-auto">
         Complete this assessment and we'll create a custom automation plan showing how AI agents can transform your operations.
     </p>
-    <div class="flex items-center justify-center gap-8 text-sm text-[#a1a19f] mb-10">
-        <div class="flex items-center gap-2"><span>⏱️</span><span>10-15 minutes</span></div>
-        <div class="flex items-center gap-2"><span>📊</span><span>10 sections</span></div>
-        <div class="flex items-center gap-2"><span>🎯</span><span>Custom plan</span></div>
+    <div class="flex items-center justify-center gap-8 text-sm text-[#31302e] mb-5">
+        <div class="flex items-center gap-2"><span class="material-icons">schedule</span><span>10-15 minutes</span></div>
+        <div class="flex items-center gap-2"><span class="material-icons">bar_chart</span><span>10 sections</span></div>
+        <div class="flex items-center gap-2"><span class="material-symbols-outlined">target</span><span>Custom plan</span></div>
     </div>
 </header>

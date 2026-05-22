@@ -23,7 +23,7 @@
         <article class="notion-card rounded-3xl p-8 bg-[#fcfcfc] border-2 border-[#e9e9e7] shadow-sm">
             <header class="mb-10 border-b border-[#e9e9e7] pb-6">
                 <p class="text-sm uppercase tracking-widest text-[#a1a19f] font-bold mb-3">{post.type}</p>
-                <h1 class="text-3xl md:text-5xl font-bold mb-4 text-[#37352f] leading-tight">{post.title}</h1>
+                <h1 class="text-3xl md:text-3xl md:max-w-3xl font-bold mb-4 text-[#37352f] leading-tight">{post.title}</h1>
                 <div class="flex items-center gap-4 text-sm text-[#a1a19f]">
                     <span>⏱️ {post.readTime} read</span>
                     <span>•</span>
