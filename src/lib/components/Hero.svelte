@@ -1,6 +1,6 @@
 <header class="relative pt-10 pb-8 px-6 w-full h-full mx-auto text-center md:text-left">
-    <img src="/assets/Untitled design (34) (2).png" alt="Background Image" class="absolute top-[0px] border-b border-[#e9e9e7] md:top-[0px] left-0 w-full h-full object-cover opacity-80 z-[-1] pointer-events-none" />
-    <div class="absolute top-[0px] md:top-[0px] left-0 w-full h-full bg-gradient-to-t from-[#37352f]/10 to-transparent opacity-50 pointer-events-none z-[-1]"></div>
+    <img src="/assets/Untitled design (34) (2).png" alt="Background Image" class="absolute top-[0px] border-b-2 border-[#e9e9e7] md:top-[0px] left-0 w-full h-full object-cover opacity-80 z-[-1] pointer-events-none" />
+    <div class="absolute top-[0px] md:top-[0px] left-0 w-full h-full bg-gradient-to-t from-[#fffefa]/10 to-transparent opacity-50 pointer-events-none z-[-1]"></div>
     
     <div class="max-w-4xl py-25 md:py-18 mx-auto">
         <h1 class="text-left text-4xl md:text-6xl font-bold tracking-tight mb-6 leading-tight">

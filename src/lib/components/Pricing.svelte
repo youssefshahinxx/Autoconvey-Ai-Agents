@@ -34,7 +34,7 @@
         </div>
         <!-- Professional -->
         <div
-            class="notion-card p-8 rounded-xl flex flex-col h-full border-2 border-[#37352f]"
+            class="notion-card p-8 rounded-xl flex flex-col h-full !border-[2px] !border-[#37352f]"
         >
             <div
                 class="text-xs font-bold uppercase tracking-wider text-[#37352f] mb-2"

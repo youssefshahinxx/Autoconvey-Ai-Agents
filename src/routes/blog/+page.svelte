@@ -8,8 +8,8 @@
     <meta name="keywords" content="AI agents, voice automation, operational efficiency, speed to lead, n8n workflows, business automation, retell ai, workflow optimization" />
 </svelte:head>
 
-<main class="py-16 px-6 max-w-4xl mx-auto">
-    <header class="mb-10 text-center md:text-left">
+<main>
+    <header class="max-w-4xl mx-auto text-left pt-20">
         <p
             class="text-sm uppercase tracking-widest text-[#a1a19f] font-bold mb-3"
         >
@@ -20,15 +20,18 @@
         </h1>
         <p class="text-lg text-[#787774] max-w-3xl">
             Practical thinking for business owners and operators navigating what
-            AI agents actually do — beyond the hype, in plain language. We
-            publish when we have something worth saying.
+            AI agents can actually do — beyond the hype, in plain language.
         </p>
+        <span class="text-sm text-[#a1a19f] mt-4 block"
+            >we publish when we have something worth saying.</span>
+        <span class="text-sm text-[#a1a19f] mt-2 block"
+            >{blogPosts.length} posts</span>
     </header>
 
     <section class="grid gap-6 md:grid-cols-2">
         {#each blogPosts as post}
             <article
-                class="notion-card rounded-2xl p-6 flex flex-col justify-between"
+                class="notion-card rounded-2xl p-6 max-w-4xl flex flex-col justify-between"
             >
                 <div>
                     <div
@@ -60,5 +63,5 @@
                 </div>
             </article>
         {/each}
-    </section>
+        </section>
 </main>

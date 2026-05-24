@@ -14,8 +14,8 @@
                     <thead>
                         <tr>
                             <th>Focus Area</th>
-                            <th>The Traditional Path<span class="text-sm text-[#a1a19f]"> / Before</span></th>
-                            <th>AI Agents & Automation<span class="text-sm text-[#a1a19f]"> / After</span></th>
+                            <th>The Traditional Path <span class="text-sm text-[#a1a19f]">/ Before</span></th>
+                            <th>AI Agents & Automation <span class="text-sm text-[#a1a19f]">/ After</span></th>
                         </tr>
                     </thead>
                     <tbody>

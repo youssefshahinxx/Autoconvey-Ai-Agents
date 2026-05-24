@@ -53,15 +53,25 @@
 <main>
     <Partners />
     <About />
-    <div class="divider max-w-4xl mx-auto"></div>
-    <Partnership />
-    <div class="divider max-w-4xl mx-auto"></div>
+    <div class="divider py-10 md:py-5 max-w-5xl mx-auto">
+        <div class="border-b border-[#e9e9e7] h-1"></div>
+    </div>
+    <Partnership />    
+    <div class="divider py-10 md:py-5 max-w-5xl mx-auto">
+        <div class="border-b border-[#e9e9e7] h-1"></div>
+    </div>
     <AgentCategories />
-    <div class="divider max-w-4xl mx-auto"></div>
+    <div class="divider py-10 md:py-5 max-w-5xl mx-auto">
+        <div class="border-b border-[#e9e9e7] h-1"></div>
+    </div>
     <Process />
-    <div class="divider max-w-4xl mx-auto"></div>
+    <div class="divider py-10 md:py-5 max-w-5xl mx-auto">
+        <div class="border-b border-[#e9e9e7] h-1"></div>
+    </div>
     <Pricing />
-    <div class="divider max-w-4xl mx-auto"></div>
+    <div class="divider py-10 md:py-5 max-w-5xl mx-auto">
+        <div class="border-b border-[#e9e9e7] h-1"></div>
+    </div>
     <FAQ />
     <FinalCTA />
 </main>

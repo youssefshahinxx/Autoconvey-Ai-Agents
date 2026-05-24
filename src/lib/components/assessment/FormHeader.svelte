@@ -1,8 +1,8 @@
 <header class="pt-32 pb-16 px-6 max-w-4xl mx-auto text-center">
-    <div class="inline-flex items-center gap-2 px-4 py-2 mb-8 text-sm font-medium bg-[#f1f1ef] text-[#787774] rounded-full">
+    <p class="text-sm uppercase tracking-widest text-[#a1a19f] font-bold mb-3">
         <span>📋</span>
         Business Automation Assessment
-    </div>
+    </p>
     <h1 class="text-4xl md:text-6xl font-bold tracking-tight mb-6 leading-tight">
         Tell Us About Your Business
     </h1>
