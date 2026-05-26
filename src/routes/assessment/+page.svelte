@@ -1044,8 +1044,8 @@
             <h3 class="text-4xl font-bold mb-6">
                 Ready to Transform Your Business?
             </h3>
-            <p class="text-lg opacity-80 mb-10 max-w-2xl mx-auto">
-                Submit your assessment and we'll create a custom automation plan
+            <p class="text-lg opacity-80 mb-10 max-w-xl mx-auto">
+                Submit your assessment and we'll create a free custom automation plan
                 tailored to your needs.
             </p>
             <button

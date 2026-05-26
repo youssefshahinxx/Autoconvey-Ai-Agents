@@ -288,26 +288,6 @@ section {
     color: #374151;
 }
 
-
-
-.form-section {
-    margin-bottom: 80px;
-    background: #fafafa;
-    border-radius: 16px;
-    padding: 40px;
-    border: 1px solid #e9e9e7;
-}
-
-.form-section h3 {
-    font-size: 1.75rem;
-    font-weight: 700;
-    margin-bottom: 8px;
-    color: #37352f;
-    display: flex;
-    align-items: center;
-    gap: 12px;
-}
-
 .section-description {
     color: #787774;
     font-size: 1rem;
@@ -425,8 +405,7 @@ section {
 }
 
 .submit-section {
-    background: linear-gradient(135deg, #37352f 0%, #2a2721 100%);
-    color: white;
+    background: #141414;
     border-radius: 16px;
     padding: 48px;
     text-align: center;
@@ -496,11 +475,17 @@ nav {
     background: #fafafa;
     border-radius: 16px;
     padding: 1.25rem;
-    border: 1px solid #e9e9e7;
+    border: 2px solid #e9e9e7;
 }
 
 .form-section h3 {
-    font-size: 1.3rem;
+    font-size: 1.75rem;
+    font-weight: 700;
+    margin-bottom: 8px;
+    color: #141414;
+    display: flex;
+    align-items: center;
+    gap: 12px;
 }
 
 .section-description {

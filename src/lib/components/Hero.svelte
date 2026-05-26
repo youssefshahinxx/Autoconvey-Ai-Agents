@@ -6,10 +6,10 @@
         <h1 class="text-left text-4xl md:text-6xl font-bold tracking-tight mb-6 leading-tight">
             We Build AI Agents That Work Inside Your Business
         </h1>
-        <p class="text-xl text-left text-[#787774] mb-4 max-w-2xl">
+        <p class="text-xl text-left text-[#787774] mb-4 max-w-2xl text-shadow-sm text-shadow-[#14141412]">
             Autoconvey designs and manages AI agents that handle calls, qualify leads, automate workflows, and execute real operational tasks across your business.
         </p>
-        <p class="text-md text-left text-[#a1a19f] mb-10 italic">
+        <p class="text-md text-left text-[#a1a19f] mb-10 italic text-shadow-sm text-shadow-[#14141412]">
             From voice agents to custom AI workers, we build systems that don’t just respond — they act.
         </p>
         <div class="flex flex-col md:flex-row gap-4 items-center">
