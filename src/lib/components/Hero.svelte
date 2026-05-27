@@ -2,9 +2,9 @@
     <img src="/assets/Untitled design (34) (2).png" alt="Background Image" class="absolute top-[0px] border-b-2 border-[#e9e9e7] md:top-[0px] left-0 w-full h-full object-cover opacity-80 z-[-1] pointer-events-none" />
     <div class="absolute top-[0px] md:top-[0px] left-0 w-full h-full bg-gradient-to-t from-[#fffefa]/10 to-transparent opacity-50 pointer-events-none z-[-1]"></div>
     
-    <div class="max-w-4xl py-25 md:py-18 mx-auto">
-        <div class="inline-flex items-center mr-auto gap-2 border border-[#37352f] text-[#37352f] px-3 py-1 rounded-full my-4 text-sm font-medium">
-        <!-- <span class="material-icons" aria-hidden="true">support_agent</span> -->
+    <div class="max-w-4xl py-25 md:py-18 mx-auto flex flex-col items-start">
+        <div class="inline-flex items-center !mr-auto gap-2 border border-[#37352f] text-[#37352f] px-3 py-1 rounded-full my-4 text-sm font-medium">
+        <span class="material-icons" aria-hidden="true">electric_bolt</span>
         <span>AI-Powered Business Automation</span>
     </div>
         <h1 class="text-left text-4xl md:text-6xl font-bold tracking-tight mb-6 leading-tight">
