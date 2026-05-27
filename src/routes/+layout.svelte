@@ -54,6 +54,7 @@
 			</button>
 		</div>
 	</div>
+    <div class="absolute top-0 left-0 w-full h-4 bg-black rounded-b-lg blur-[100px]"></div>
 </nav>
 
 <slot />

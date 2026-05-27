@@ -3,6 +3,10 @@
     <div class="absolute top-[0px] md:top-[0px] left-0 w-full h-full bg-gradient-to-t from-[#fffefa]/10 to-transparent opacity-50 pointer-events-none z-[-1]"></div>
     
     <div class="max-w-4xl py-25 md:py-18 mx-auto">
+        <div class="inline-flex items-center gap-2 border border-[#37352f] text-[#37352f] px-3 py-1 rounded-full my-4 text-sm font-medium">
+        <!-- <span class="material-icons" aria-hidden="true">support_agent</span> -->
+        <span>AI-Powered Business Automation</span>
+    </div>
         <h1 class="text-left text-4xl md:text-6xl font-bold tracking-tight mb-6 leading-tight">
             We Build AI Agents That Work Inside Your Business
         </h1>
